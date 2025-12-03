@@ -22,7 +22,7 @@ L’InSIDE Lab promuove:
 ---
 
 ## 📂 Struttura del repository
-- **research/** → progetti di ricerca del laboratorio  
+- **papers/** → articoli e progetti di ricerca del laboratorio  
 - **teaching/** → materiale didattico, esercitazioni, workshop  
 - **datasets/** → dataset pubblici o simulati + linee guida per l’anonimizzazione  
 - **templates/** → modelli per notebook, progetti, report e tesi  
