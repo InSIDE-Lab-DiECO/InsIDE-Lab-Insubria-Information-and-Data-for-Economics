@@ -54,9 +54,9 @@ Utilizzare solo:
 ---
 
 ## 📜 Licenza
-- MIT License  
-- GPLv3  
-- Creative Commons Attribution 4.0 (CC-BY 4.0)
+- Il **codice** presente in questo repository è distribuito con licenza MIT.
+- I **materiali didattici**, i template e la documentazione testuale sono soggetti a licenza Creative Commons CC BY 4.0.
+
 
 ---
 
