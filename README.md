@@ -4,17 +4,17 @@
 
 
 
-# InSIDE Lab  
+# InsIDE Lab  
 ### Insubria Information & Data for Economics  
 Dipartimento di Economia – Università degli Studi dell’Insubria
 
-Benvenuti nel repository ufficiale dell’**InSIDE Lab (Insubria Information & Data for Economics)**.  
+Benvenuti nel repository ufficiale dell’**InsIDE Lab (Insubria Information & Data for Economics)**.  
 Questo spazio raccoglie codice, materiali didattici, dataset pubblici o simulati e progetti di ricerca sviluppati da docenti, ricercatori e studenti del Dipartimento di Economia.
 
 ---
 
 ## 🎯 Missione del laboratorio
-L’InSIDE Lab promuove:
+L’InsIDE Lab promuove:
 - l’uso di **dati**, **metodi quantitativi** e **strumenti computazionali** nell’analisi economica;
 - pratiche di **Open Science** e **riproducibilità della ricerca**;
 - un ambiente collaborativo per studenti, dottorandi e ricercatori.
@@ -61,7 +61,7 @@ Utilizzare solo:
 ---
 
 ## 📬 Contatti
-**InSIDE Lab – Insubria Information & Data for Economics**  
+**InsIDE Lab – Insubria Information & Data for Economics**  
 Dipartimento di Economia – Università degli Studi dell’Insubria  
 Email di riferimento: *samuele.tonati@uninsubria.it*
 
