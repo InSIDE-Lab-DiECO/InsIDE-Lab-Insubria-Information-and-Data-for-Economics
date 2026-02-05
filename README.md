@@ -2,17 +2,17 @@
   <img src="assets/logo-big.png" alt="InSIDE Lab Logo" width="200">
 </p>
 
-# InSIDE Lab  
+# InsIDE Lab  
 ### Insubria Information & Data for Economics  
 Department of Economics – University of Insubria
 
-Welcome to the official repository of **InSIDE Lab (Insubria Information & Data for Economics)**.  
+Welcome to the official repository of **InsIDE Lab (Insubria Information & Data for Economics)**.  
 This space hosts code, educational materials, public or simulated datasets, and research projects developed by faculty, researchers, and students of the Department of Economics.
 
 ---
 
 ## 🎯 Lab Mission
-InSIDE Lab promotes:
+InsIDE Lab promotes:
 * The use of **data**, **quantitative methods**, and **computational tools** in economic analysis.
 * **Open Science** practices and **research reproducibility**.
 * A collaborative environment for students, PhD candidates, and researchers.
