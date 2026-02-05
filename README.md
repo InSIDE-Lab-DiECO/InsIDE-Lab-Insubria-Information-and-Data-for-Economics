@@ -58,5 +58,5 @@ Only use:
 ---
 
 ## 📬 Contacts
-**InsIDE Lab – Insubria Information & Data for Economics** Department of Economics – University of Insubria  
+**InsIDE Lab – Insubria Information & Data for Economics**, Department of Economics – University of Insubria  
 Reference Email: *samuele.tonati@uninsubria.it*
